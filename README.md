@@ -14,6 +14,8 @@ Thank you again!
 
 Soulchat technical support
 AppInfo
+![0308201e2525be25a389b1f34cfe1a4](https://user-images.githubusercontent.com/37922559/167235441-7cc2a2cd-ef3a-4fc8-85a4-2655e549227c.png)
+
 This is the traveler's note, recording the beautiful scenic spot pictures and addresses.
 Here you can find beautiful tourist attractions.
 Here you can publish and share information about the countries, cities and scenic spots you have been to.
